@@ -112,7 +112,7 @@ jobs:
         run: |
           set -euo pipefail
           export TERM=dumb
-          ./gradlew assembleDebug --no-daemon
+          ./gradlew :app:assembleDebug --no-daemon
         shell: bash
 
       - name: Upload APK artifact
