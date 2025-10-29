@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Rastreador de Teléfono</string>
+    <string name="app_title">Rastreador de Ubicación</string>
+    <string name="map_pin">Icono de ubicación</string>
+    <string name="phone_number_hint">Número de teléfono (10 dígitos)</string>
+    <string name="track_button">Rastrear</string>
+    <string name="address_label">Dirección:</string>
+    <string name="last_seen_label">Última vez visto:</string>
+    <string name="searching">Buscando ubicación...</string>
+    <string name="premium_button">Premium</string>
+    <string name="remaining_tracks">Rastreos gratuitos restantes: %d</string>
+    <string name="premium_required">Has alcanzado el límite de rastreos gratuitos. ¿Deseas actualizar a Premium?</string>
+    <string name="yes">Sí</string>
+    <string name="no">No</string>
+    <string name="premium_title">Actualizar a Premium</string>
+    <string name="payment_method">Método de pago</string>
+    <string name="card_payment">Pagar con tarjeta</string>
+    <string name="spei_payment">Pagar con SPEI</string>
+    <string name="premium_price">$180 MXN/mes</string>
+    <string name="premium_activated">¡Premium activado!</string>
+    <string name="invalid_phone">Número de teléfono inválido</string>
+</resources>
+    <string name="card_number_hint">Número de tarjeta</string>
+    <string name="expiry_date_hint">MM/AA</string>
+    <string name="cvv_hint">CVV</string>
+    <string name="pay">Pagar</string>
+    <string name="payment_success">¡Pago exitoso! Ahora tienes acceso Premium.</string>
+    <string name="payment_error">Error en el pago. Inténtalo de nuevo.</string>
+    <string name="spei_instructions">Realiza una transferencia a la siguiente CLABE:</string>
+    <string name="spei_clabe">012345678901234567</string>
+    <string name="spei_reference">Referencia: %s</string>
+    <string name="spei_confirm">He realizado la transferencia</string>
+    <string name="invalid_phone">Por favor ingresa un número válido (7-15 dígitos)</string>
+</resources>
